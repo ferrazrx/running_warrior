@@ -1,0 +1,18 @@
+html, body{
+    width: 100vw;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+}
+
+canvas{
+    background: #87cefa;
+    -webkit-transform-origin: 0px 0px;
+    transform-origin: 0px 0px;
+    position: absolute;
+}
+#gameWrapper {
+    display: block;
+    margin: 0 auto;   
+    position: absolute;
+}

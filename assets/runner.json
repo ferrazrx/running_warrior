@@ -1,0 +1,47 @@
+{
+
+"images": [
+    "assets/runner.png"
+],
+
+"framerate": 20,
+"frames": [
+    [1, 1, 426, 236, 0, 211, 119.5],
+    [1, 239, 300, 98, 0, 150, 49],
+    [1, 339, 200, 171, 0, 100, 85.5],
+    [429, 1, 101, 400, 0, 50.5, 200],
+    [203, 339, 184, 102, 0, 92, 7],
+    [203, 443, 80, 67, 0, 40, 33.5],
+    [303, 239, 64, 98, 0, 28, 48],
+    [532, 1, 66, 100, 0, 28, 50],
+    [532, 103, 66, 100, 0, 28, 50],
+    [532, 205, 65, 95, 0, 27, 49],
+    [532, 302, 62, 97, 0, 28, 47],
+    [285, 443, 143, 55, 0, 71, 27.5],
+    [369, 239, 41, 70, 0, 20.5, 35],
+    [430, 403, 118, 40, 0, 58.5, 20],
+    [285, 500, 65, 8, 0, 32.5, 4],
+    [369, 311, 33, 15, 0, 16.5, 7.5]
+],
+
+"animations": {
+    "logo": { "frames": [0] },
+    "gameOver": { "frames": [1] },
+    "castle": { "frames": [2] },
+    "tree": { "frames": [3] },
+    "ground": { "frames": [4] },
+    "rock": { "frames": [5] },
+    "viking": { "frames": [9, 6, 10, 7, 8] },
+    "cloud": { "frames": [11] },
+    "arrowtarget": { "frames": [12] },
+    "start": { "frames": [13] },
+    "arrow": { "frames": [14] },
+    "grass": { "frames": [15] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:4855738d1c143669fb14a9e283bce3cd:4254ef7c7c4dfb83d032fc4eedd3b88f:0df1f239f6cd3572546980ce8827d6b0$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

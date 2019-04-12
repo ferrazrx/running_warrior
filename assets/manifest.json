@@ -1,0 +1,19 @@
+loadSounds({
+	"path": "./",
+	"manifest": [
+		{"id":"music", "src":"assets/music1.mp3"},
+		{"id":"jump", "src":"assets/jumps1.wav"},
+		{"id":"land", "src":"assets/land1.wav"},
+		{"id":"breathing", "src":"assets/breathing1.wav"},
+		{"id":"arrow", "src":"assets/arrow.wav"},
+		{"id":"gameOver", "src":"assets/gameOver2.wav"},
+		{"id":"gameOverSong", "src":"assets/gameOver3.wav"},
+		{"id":"image", "src":"assets/image.jpg"},
+		{"id":"image", "src":"assets/image.jpg"},
+		{
+			src: "./assets/runner.json",
+			id: "runner_sheet",
+			type: "spritesheet"
+		}
+	]
+});
